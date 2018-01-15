@@ -11,3 +11,13 @@ E:\workspace\GH\test\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.reso
 E:\workspace\GH\test\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
 E:\workspace\GH\test\TestApp\TestApp\obj\Debug\TestApp.exe
 E:\workspace\GH\test\TestApp\TestApp\obj\Debug\TestApp.pdb
+E:\workspace\GH\test\TestApp\TestApp\bin\Debug\InfragisticsWPF4.DataPresenter.v16.2.dll
+E:\workspace\GH\test\TestApp\TestApp\bin\Debug\InfragisticsWPF4.Editors.v16.2.dll
+E:\workspace\GH\test\TestApp\TestApp\bin\Debug\InfragisticsWPF4.v16.2.dll
+E:\workspace\GH\test\TestApp\TestApp\bin\Debug\InfragisticsWPF4.DataPresenter.v16.2.xml
+E:\workspace\GH\test\TestApp\TestApp\bin\Debug\InfragisticsWPF4.Editors.v16.2.xml
+E:\workspace\GH\test\TestApp\TestApp\bin\Debug\InfragisticsWPF4.v16.2.xml
+E:\workspace\GH\test\TestApp\TestApp\bin\Debug\ja\InfragisticsWPF4.DataPresenter.v16.2.resources.dll
+E:\workspace\GH\test\TestApp\TestApp\bin\Debug\ja\InfragisticsWPF4.Editors.v16.2.resources.dll
+E:\workspace\GH\test\TestApp\TestApp\bin\Debug\ja\InfragisticsWPF4.v16.2.resources.dll
+E:\workspace\GH\test\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
